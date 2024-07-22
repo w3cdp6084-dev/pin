@@ -1,4 +1,4 @@
-# pin
+# pin (app)
 
 A new Flutter project.
 
