@@ -1,0 +1,1045 @@
+ized to bind the entity to the terms and conditions of this Agreement. If you do not agree to be bound by the terms and conditions of this Agreement, do not download, install, or use the Evaluation Materials.
+
+1. DEFINITIONS. These terms shall have the following meanings:
+
+1.1 “MIPS” shall mean MIPS Technologies, Inc., a Delaware corporation having a principal place of business at: 955 East Arques Ave., Sunnyvale, CA 94085
+
+1.2 “Evaluation Software” shall mean MIPS Android™ emulator system images for Android Software Development Kit (SDK), as made available to Recipient.
+
+1.3 “Evaluation Materials" means, collectively, the Evaluation Software (in source and/or object code form) and documentation (including, without limitation, any design documents, specifications, reference manuals, and other related materials) related to the Evaluation Software as made available to Recipient.
+
+1.4 “Open Source Software” means any software that requires (as a condition of use, modification and/or distribution of such software) that such software or other software incorporated into, derived from or distributed with such software (a) be disclosed or distributed in source code form; or (b) be licensed by the user to third parties for the purpose of making and/or distributing derivative works; or (c) be redistributable at no charge. Open Source Software includes, without limitation, software licensed or distributed under any of the following licenses or distribution models, or licenses or distribution models substantially similar to any of the following: (a) GNU’s General Public License (GPL) or Lesser/Library GPL (LGPL), (b) the Artistic License (e.g., PERL), (c) the Mozilla Public License, (d) the Netscape Public License, (e) the Sun Community Source License (SCSL), (f) the Sun Industry Source License (SISL), (g) the Apache Software license and (h) the Common Public License (CPL).
+
+1.5 “Pre-Release Materials” means “alpha” or “beta” designated pre-release features, which may not be fully functional, which MIPS may substantially modify in producing any production version of the Evaluation Materials, and/or which is still under development by MIPS and/or MIPS’ suppliers.
+
+2. PURPOSE. MIPS desires to make the Evaluation Materials available to Recipient solely for Recipient's internal evaluation of the Evaluation Software to evaluate the desirability of cooperating with MIPS in developing products that are compatible with the Evaluation Software and/or to advise MIPS as to possible modifications to the Evaluation Software. Recipient may not disclose, distribute, modify (except to facilitate the above-mentioned internal evaluation), or make commercial use of the Evaluation Materials or any modifications of the Evaluation Materials.
+
+THE EVALUATION MATERIALS ARE PROVIDED FOR EVALUATION PURPOSES ONLY AND MAY NOT BE MODIFIED (EXCEPT TO FACILITATE THE INTERNAL EVALUATION) OR DISTRIBUTED BY RECIPIENT OR INCORPORATED INTO RECIPIENT’S PRODUCTS OR SOFTWARE. PLEASE CONTACT A MIPS SALES REPRESENTATIVE TO LEARN ABOUT THE AVAILABILITY AND COST OF A COMMERCIAL VERSION OF THE EVALUATION SOFTWARE.
+
+3. TITLE. Title to the Evaluation Materials remains with MIPS or its suppliers. Recipient shall not mortgage, pledge or encumber the Evaluation Materials in any way. Recipient shall return all Evaluation Materials, keeping no copies, upon termination or expiration of this Agreement.
+
+4. LICENSE. MIPS grants Recipient a royalty-free, personal, nontransferable, nonexclusive license under its copyrights to use the Evaluation Software only for the purposes described in paragraph 2 above and only for a period beginning on the Effective Date and extending to the first anniversary of the Effective Date (the “Evaluation Period”). Unless otherwise communicated in writing by MIPS to Recipient, to the extent the Evaluation Software is provided in more than one delivery or release (each, a “Release”) the license grant in this Section 4 and the Evaluation Period shall apply to each Release, in which case the Evaluation Period shall begin on the date that the Release is made generally available and continue to the first anniversary of such date. Recipient may not make modifications to the Evaluation Software. Recipient shall not disassemble, reverse-engineer, or decompile any software that is not provided to Recipient in source code form.
+
+
+EXCEPT AS PROVIDED HEREIN, NO OTHER LICENSE, EXPRESS OR IMPLIED, BY ESTOPPEL OR OTHERWISE, TO ANY OTHER MIPS INTELLECTUAL PROPERTY RIGHTS IS GRANTED TO THE RECIPIENT. OTHER THAN AS EXPLICITLY SET FORTH IN PARAGRAPH 2 ABOVE, NO RIGHT TO COPY, TO REPRODUCE, TO MODIFY, OR TO CREATE DERIVATIVE WORKS OF, THE EVALUATION MATERIALS IS GRANTED HEREIN.
+
+5. NO OBLIGATION. Recipient shall have no duty to purchase or license any product from MIPS. MIPS and its suppliers shall have no obligation to provide support for, or develop a non-evaluation version of, the Evaluation Software or to license any version of it.
+
+6. MODIFICATIONS. This Agreement does not obligate Recipient to provide MIPS with comments or suggestions regarding Evaluation Materials. However, should Recipient provide MIPS with comments or suggestions for the modification, correction, improvement or enhancement of (a) the Evaluation Materials or (b) MIPS products or processes which may embody the Evaluation Materials, then Recipient agrees to grant and hereby grants to MIPS a non-exclusive, irrevocable, worldwide, fully paid-up, royalty-free license, with the right to sublicense MIPS’ licensees and customers, under Recipient’s Intellectual property rights, to use and disclose such comments and suggestions in any manner MIPS chooses and to display, perform, copy, make, have made, use, sell, offer to sell, import, and otherwise dispose of MIPS’ and its sublicensee’s products embodying such comments and suggestions in any manner and via any media MIPS chooses, without reference to the source.
+
+7. WARRANTY DISCLAIMER. MIPS AND ITS SUPPLIERS MAKE NO WARRANTIES WITH RESPECT TO EVALUATION MATERIALS, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR ANY IMPLIED WARRANTY OF NONINFRINGEMENT WITH RESPECT TO THIRD PARTY INTELLECTUAL PROPERTY. RECIPIENT ACKNOWLEDGES AND AGREES THAT THE EVALUATION MATERIALS ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND.
+
+8. LIMITATION OF LIABILITY. MIPS AND ITS SUPPLIERS SHALL NOT BE LIABLE FOR ANY PROPERTY DAMAGE, PERSONAL INJURY, LOSS OF PROFITS, INTERRUPTION OF BUSINESS OR FOR ANY DIRECT, INDIRECT, SPECIAL, CONSEQUENTIAL OR INCIDENTAL DAMAGES, HOWEVER CAUSED OR ALLEGED, WHETHER FOR BREACH OF WARRANTY, CONTRACT, STRICT LIABILITY OR OTHERWISE, INCLUDING WITHOUT LIMITATION, UNDER TORT OR OTHER LEGAL THEORY. MIPS AND ITS SUPPLIERS DISCLAIM ANY AND ALL LIABILITY, INCLUDING LIABILITY FOR INFRINGEMENT OF ANY INTELLECTUAL PROPERTY RIGHTS OF ANY KIND RELATING TO THE EVALUATION MATERIALS.
+
+9. EXPIRATION. MIPS may terminate this Agreement immediately after a breach by Recipient or otherwise at MIPS’ reasonable discretion and upon five (5) business days’ notice to Recipient.
+
+10. GENERAL.
+
+10.1 Controlling Law. This Agreement shall be governed by California law excluding its choice of law rules. With the exception of MIPS’ rights to enforce its intellectual property rights and any confidentiality obligations under this Agreement or any licenses distributed with the Evaluation Materials, all disputes and any claims arising under or relating to this Agreement shall be subject to the exclusive jurisdiction and venue of the state and federal courts located in Santa Clara County, California. Each party hereby agrees to jurisdiction and venue in the courts set forth in the preceding sentence. The parties agree that the United Nations Convention on Contracts for the International Sale of Goods is specifically excluded from application to this Agreement. The parties consent to the personal jurisdiction of the above courts.
+
+10.2 Remedies. Recipient acknowledges and agrees that any breach of confidentiality obligations under this Agreement or any licenses distributed with the Evaluation Materials, as well as any disclosure, commercialization, or public use of the Evaluation Materials, would cause irreparable injury to MIPS, and therefore Recipient agrees to consent to, and hereby consents to, the grant of an injunction by any court of competent jurisdiction in the event of an actual or threatened breach.
+
+10.3 Assignment. Recipient may not delegate, assign or transfer this Agreement, the license granted or any of Recipient’s rights, obligations, or duties hereunder, expressly, by implication, by operation of law, by way of merger (regardless of whether Recipient is the surviving entity) or acquisition, or otherwise and any attempt to do so, without MIPS’ express prior written consent, shall be ineffective, null and void. MIPS may freely assign this Agreement, and its rights and obligations hereunder, in its sole discretion.
+
+10.4 Entire Agreement. This Agreement constitutes the entire agreement between Recipient and MIPS and supersedes in their entirety any and all oral or written agreements previously existing between Recipient and MIPS with respect to the subject matter hereof. This Agreement may only be amended or supplemented by a writing that refers explicitly to this Agreement and that is signed or otherwise accepted by duly authorized representatives of Recipient and MIPS.
+
+10.5 Severability. In the event that any provision of this Agreement is finally adjudicated to be unenforceable or invalid under any applicable law, such unenforceability or invalidity shall not render this Agreement unenforceable or invalid as a whole, and, in such event, such unenforceable or invalid provision shall be interpreted so as to best accomplish the objectives of such provision within the limits of applicable law or applicable court decisions.
+
+10.6 Export Regulations / Export Control. Recipient shall not export, either directly or indirectly, any product, service or technical data or system incorporating the Evaluation Materials without first obtaining any required license or other necessary approval from the U.S. Department of Commerce or any other governing agency or department of the United States Government. In the event any product is exported from the United States or re-exported from a foreign destination by Recipient, Recipient shall ensure that the distribution and export/re-export or import of the product is in compliance with all applicable laws, regulations, orders, or other restrictions of the U.S. Export Administration Regulations and the appropriate foreign government. Recipient agrees that neither it nor any of its subsidiaries will export/re-export any technical data, process, product, or service, directly or indirectly, to any country for which the United States government or any agency thereof or the foreign government from where it is shipping requires an export license, or other governmental approval, without first obtaining such license or approval. Recipient also agrees to implement measures to ensure that foreign national employees are authorized to receive any information controlled by U.S. export control laws. An export is "deemed" to take place when information is released to a foreign national wherever located.
+
+10.7 Special Terms for Pre-Release Materials. If so indicated in the description of the Evaluation Software, the Evaluation Software may contain Pre-Release Materials. Recipient hereby understands, acknowledges and agrees that: (i) Pre-Release Materials may not be fully tested and may contain bugs or errors; (ii) Pre-Release materials are not suitable for commercial release in their current state; (iii) regulatory approvals for Pre-Release Materials (such as UL or FCC) have not been obtained, and Pre-Release Materials may therefore not be certified for use in certain countries or environments or may not be suitable for certain applications and (iv) MIPS can provide no assurance that it will ever produce or make generally available a production version of the Pre-Release Materials . MIPS is not under any obligation to develop and/or release or offer for sale or license a final product based upon the Pre-Release Materials and may unilaterally elect to abandon the Pre-Release Materials or any such development platform at any time and without any obligation or liability whatsoever to Recipient or any other person.
+
+ANY PRE-RELEASE MATERIALS ARE NON-QUALIFIED AND, AS SUCH, ARE PROVIDED “AS IS” AND “AS AVAILABLE”, POSSIBLY WITH FAULTS, AND WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND.
+
+10.8 Open Source Software. In the event Open Source software is included with Evaluation Software, such Open Source software is licensed pursuant to the applicable Open Source software license agreement identified in the Open Source software comments in the applicable source code file(s) and/or file header as indicated in the Evaluation Software. Additional detail may be available (where applicable) in the accompanying on-line documentation. With respect to the Open Source software, nothing in this Agreement limits any rights under, or grants rights that supersede, the terms of any applicable Open Source software license agreement.
+---------------------------------------
+Accept? (y/N): y
+All SDK package licenses accepted
+
+❯ sudo gem install cocoapods
+Password:
+ERROR:  Error installing cocoapods:
+	The last version of drb (>= 0) to support your Ruby & RubyGems was 2.0.6. Try installing it with `gem install drb -v 2.0.6` and then running the current command again
+	drb requires Ruby version >= 2.7.0. The current ruby version is 2.6.10.210.
+❯ brew -v
+Homebrew 4.3.7
+❯ brew install ruby
+==> Auto-updating Homebrew...
+Adjust how often this is run with HOMEBREW_AUTO_UPDATE_SECS or disable with
+HOMEBREW_NO_AUTO_UPDATE. Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Homebrew collects anonymous analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics have been recorded yet (nor will be during this `brew` run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Auto-updated Homebrew!
+Updated 2 taps (homebrew/core and homebrew/cask).
+==> New Formulae
+clang-uml     cortexso      cotila        egctl         frizbee       ftnchek       h26forge      iowow         kaskade       libgit2@1.7   litmusctl     mako          nerdfetch     openbao       porter        pug           ryelang       soapyhackrf   tdb           terrahash     terramaid     wcurl
+==> New Casks
+airdash                                charmstone                             ea                                     inkdown                                lazycat                                orka-desktop                           productive                             sq-mixpad
+avbeam                                 crashplan                              font-afacad-flux                       ivacy                                  longplay                               pia                                    replit                                 twingate
+ball                                   dockdoor                               font-sixtyfour-convergence             jagex                                  monarch                                plugdata@nightly                       retroarch-metal@nightly                wd-security
+blip                                   duplicateaudiofinder                   gitkraken-on-premise-serverless        k8studio                               notchnook                              positron                               roblox
+
+==> Downloading https://ghcr.io/v2/homebrew/core/ruby/manifests/3.3.4
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching dependencies for ruby: libyaml, ca-certificates and openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/libyaml/manifests/0.2.5
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching libyaml
+==> Downloading https://ghcr.io/v2/homebrew/core/libyaml/blobs/sha256:98c0cf81bcdf7577d5fdc8cc18732970b9ae7e0e7423a733f88f0f566ba483ad
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2024-07-02
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching ca-certificates
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/blobs/sha256:73eb1a6bf9a5e12ee3f1acd295a4aaa28f08a9125a94342ddbf0aa65349c9db2
+  UW PICO 5.09                                                                                                                                                 New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                     [ Read 122 lines ]
+^G Get Help                                         ^O WriteOut                                         ^R Read File                                        ^Y Prev Pg                                          ^K Cut Text                                         ^C Cur Pos
+^X Exit                                             ^J Justify                                          ^W Where is                                         ^V Next Pg                                          ^U UnCut Text                                       ^T To Spell
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.3.1
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/blobs/sha256:d57cf59ebcfa7755895707f5eab2c07cbcc177b1c1803d160a8633db99b110ba
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching ruby
+==> Downloading https://ghcr.io/v2/homebrew/core/ruby/blobs/sha256:d7f3368bed92b3cf315aa1e6e3d4828508b8cde834da97c7de286356b23b5612
+######################################################################################################################################################################################################################################################### 100.0%
+==> Installing dependencies for ruby: libyaml, ca-certificates and openssl@3
+==> Installing ruby dependency: libyaml
+==> Downloading https://ghcr.io/v2/homebrew/core/libyaml/manifests/0.2.5
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/5f6b0af1730aa1bc02f8021c90ed7ffe988eeba95eec83e6c828f77332ba6406--libyaml-0.2.5.bottle_manifest.json
+==> Pouring libyaml--0.2.5.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/libyaml/0.2.5: 11 files, 354.9KB
+==> Installing ruby dependency: ca-certificates
+==> Downloading https://ghcr.io/v2/homebrew/core/ca-certificates/manifests/2024-07-02
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/f1e786c502c23070efef1c7716aeaea181b28fd0cdbc5327d6d7c243b49e7700--ca-certificates-2024-07-02.bottle_manifest.json
+==> Pouring ca-certificates--2024-07-02.all.bottle.tar.gz
+==> Regenerating CA certificate bundle from keychain, this may take a while...
+🍺  /opt/homebrew/Cellar/ca-certificates/2024-07-02: 4 files, 231.3KB
+==> Installing ruby dependency: openssl@3
+==> Downloading https://ghcr.io/v2/homebrew/core/openssl/3/manifests/3.3.1
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/667f7ac7d51b399107e055b7908f1922fcabba24c7d9d22f2b2d90a07c7c079c--openssl@3-3.3.1.bottle_manifest.json
+==> Pouring openssl@3--3.3.1.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/openssl@3/3.3.1: 6,982 files, 32.5MB
+==> Installing ruby
+==> Pouring ruby--3.3.4.arm64_sonoma.bottle.tar.gz
+==> Caveats
+By default, binaries installed by gem will be placed into:
+  /opt/homebrew/lib/ruby/gems/3.3.0/bin
+
+You may want to add this to your PATH.
+
+ruby is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have ruby first in your PATH, run:
+  echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find ruby you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/ruby/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/ruby/include"
+==> Summary
+🍺  /opt/homebrew/Cellar/ruby/3.3.4: 19,837 files, 51.7MB
+==> Running `brew cleanup ruby`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Caveats
+==> ruby
+By default, binaries installed by gem will be placed into:
+  /opt/homebrew/lib/ruby/gems/3.3.0/bin
+
+You may want to add this to your PATH.
+
+ruby is keg-only, which means it was not symlinked into /opt/homebrew,
+because macOS already provides this software and installing another version in
+parallel can cause all kinds of trouble.
+
+If you need to have ruby first in your PATH, run:
+  echo 'export PATH="/opt/homebrew/opt/ruby/bin:$PATH"' >> ~/.zshrc
+
+For compilers to find ruby you may need to set:
+  export LDFLAGS="-L/opt/homebrew/opt/ruby/lib"
+  export CPPFLAGS="-I/opt/homebrew/opt/ruby/include"
+❯ echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
+❯ source ~/.zshrc
+❯ echo 'export PATH="/usr/local/lib/ruby/gems/3.0.0/bin:$PATH"' >> ~/.zshrc
+❯ source ~/.zshrc
+❯ ruby -v
+ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin23]
+❯ sudo gem install cocoapods
+Password:
+ERROR:  Error installing cocoapods:
+	The last version of drb (>= 0) to support your Ruby & RubyGems was 2.0.6. Try installing it with `gem install drb -v 2.0.6` and then running the current command again
+	drb requires Ruby version >= 2.7.0. The current ruby version is 2.6.10.210.
+❯ nano ~/.zshrc
+❯ source ~/.zshrc
+❯ ruby -v
+ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin23]
+❯ brew install rbenv
+  UW PICO 5.09                                                                                                                                                 New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                     [ Read 122 lines ]
+^G Get Help                                         ^O WriteOut                                         ^R Read File                                        ^Y Prev Pg                                          ^K Cut Text                                         ^C Cur Pos
+^X Exit                                             ^J Justify                                          ^W Where is                                         ^V Next Pg                                          ^U UnCut Text                                       ^T To Spell
+==> Downloading https://formulae.brew.sh/api/formula.jws.json
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://formulae.brew.sh/api/cask.jws.json
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/rbenv/manifests/1.3.0
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching dependencies for rbenv: m4, autoconf, pkg-config, readline and ruby-build
+==> Downloading https://ghcr.io/v2/homebrew/core/m4/manifests/1.4.19
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching m4
+==> Downloading https://ghcr.io/v2/homebrew/core/m4/blobs/sha256:f42d89db519a07d67bcaead6c8dfb2da45e8266bebb996dd8b3f19b1ca13b8a0
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/autoconf/manifests/2.72
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching autoconf
+==> Downloading https://ghcr.io/v2/homebrew/core/autoconf/blobs/sha256:bb39057e87dd9cb940bee15ff5b5172952a0350e59b14a6f55b8006a07813186
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/pkg-config/manifests/0.29.2_3
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching pkg-config
+==> Downloading https://ghcr.io/v2/homebrew/core/pkg-config/blobs/sha256:7b59abc0b5381065b1eab174217307af9324e0d02edf903171b29250ae58aeaf
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/manifests/8.2.10
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching readline
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/blobs/sha256:713fd1fa8544426b7e97eb21d13153195fea4c407db8a174bd183777b81c9192
+######################################################################################################################################################################################################################################################### 100.0%
+==> Downloading https://ghcr.io/v2/homebrew/core/ruby-build/manifests/20240709.1
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching ruby-build
+==> Downloading https://ghcr.io/v2/homebrew/core/ruby-build/blobs/sha256:8d1c74af0fbfdcf4b3dec26f03ed4a346800f703cf264cac80630021a15942e3
+######################################################################################################################################################################################################################################################### 100.0%
+==> Fetching rbenv
+==> Downloading https://ghcr.io/v2/homebrew/core/rbenv/blobs/sha256:6a9437cf6a6933473161ddcfcc9f9f8214ccbf8b1fcbf35e21662712dcfb80f3
+######################################################################################################################################################################################################################################################### 100.0%
+==> Installing dependencies for rbenv: m4, autoconf, pkg-config, readline and ruby-build
+==> Installing rbenv dependency: m4
+==> Downloading https://ghcr.io/v2/homebrew/core/m4/manifests/1.4.19
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/5b2a7f715487b7377e409e8ca58569040cd89f33859f691210c58d94410fd33b--m4-1.4.19.bottle_manifest.json
+==> Pouring m4--1.4.19.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/m4/1.4.19: 14 files, 728.8KB
+==> Installing rbenv dependency: autoconf
+==> Downloading https://ghcr.io/v2/homebrew/core/autoconf/manifests/2.72
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/b73cdb320c4261bbf8d02d03e50dc755c869c5859c1d4e93616898fc7cd939ff--autoconf-2.72.bottle_manifest.json
+==> Pouring autoconf--2.72.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/autoconf/2.72: 72 files, 3.6MB
+==> Installing rbenv dependency: pkg-config
+==> Downloading https://ghcr.io/v2/homebrew/core/pkg-config/manifests/0.29.2_3
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/ac691fc7ab8ecffba32a837e7197101d271474a3a84cfddcc30c9fd6763ab3c6--pkg-config-0.29.2_3.bottle_manifest.json
+==> Pouring pkg-config--0.29.2_3.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/pkg-config/0.29.2_3: 12 files, 679.3KB
+==> Installing rbenv dependency: readline
+==> Downloading https://ghcr.io/v2/homebrew/core/readline/manifests/8.2.10
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/4ddd52803319828799f1932d4c7fa8d11c667049b20a56341c0c19246a1be93b--readline-8.2.10.bottle_manifest.json
+==> Pouring readline--8.2.10.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/readline/8.2.10: 51 files, 1.7MB
+==> Installing rbenv dependency: ruby-build
+==> Downloading https://ghcr.io/v2/homebrew/core/ruby-build/manifests/20240709.1
+Already downloaded: /Users/moriyuusuke/Library/Caches/Homebrew/downloads/4d6679a25ec01c4bdc1eacb88ebe5cb6a99843eceadfe9ac1f4dec4c6eeef188--ruby-build-20240709.1.bottle_manifest.json
+==> Pouring ruby-build--20240709.1.arm64_sonoma.bottle.tar.gz
+🍺  /opt/homebrew/Cellar/ruby-build/20240709.1: 619 files, 336.2KB
+==> Installing rbenv
+==> Pouring rbenv--1.3.0.arm64_sonoma.bottle.tar.gz
+==> Caveats
+zsh completions have been installed to:
+  /opt/homebrew/share/zsh/site-functions
+==> Summary
+🍺  /opt/homebrew/Cellar/rbenv/1.3.0: 36 files, 73.7KB
+==> Running `brew cleanup rbenv`...
+Disable this behaviour by setting HOMEBREW_NO_INSTALL_CLEANUP.
+Hide these hints with HOMEBREW_NO_ENV_HINTS (see `man brew`).
+==> Caveats
+==> rbenv
+zsh completions have been installed to:
+  /opt/homebrew/share/zsh/site-functions
+❯ rbenv init
+writing ~/.zprofile: now configured for rbenv.
+❯ nano ~/.zshrc
+❯ source ~/.zshrc
+❯ rbenv install 3.1.2
+ruby-build: using openssl@3 from homebrew
+==> Downloading ruby-3.1.2.tar.gz...
+-> curl -q -fL -o ruby-3.1.2.tar.gz https://cache.ruby-lang.org/pub/ruby/3.1/ruby-3.1.2.tar.gz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 19.6M  100 19.6M    0     0  13.4M      0  0:00:01  0:00:01 --:--:-- 13.4M
+==> Installing ruby-3.1.2...
+ruby-build: using readline from homebrew
+ruby-build: using libyaml from homebrew
+-> ./configure "--prefix=$HOME/.rbenv/versions/3.1.2" --with-openssl-dir=/opt/homebrew/opt/openssl@3 --enable-shared --with-readline-dir=/opt/homebrew/opt/readline --with-libyaml-dir=/opt/homebrew/opt/libyaml --with-ext=openssl,psych,+
+-> make -j 16
+-> make install
+==> Installed ruby-3.1.2 to /Users/moriyuusuke/.rbenv/versions/3.1.2
+
+NOTE: to activate this Ruby version as the new default, run: rbenv global 3.1.2
+❯ rbenv global 3.1.2
+❯ ruby -v
+ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin23]
+❯ rbenv global 3.1.2
+❯ ruby -v
+ruby 2.6.10p210 (2022-04-12 revision 67958) [universal.arm64e-darwin23]
+❯ rbenv install 3.1.2
+rbenv: /Users/moriyuusuke/.rbenv/versions/3.1.2 already exists
+continue with installation? (y/N) y
+ruby-build: using openssl@3 from homebrew
+==> Downloading ruby-3.1.2.tar.gz...
+-> curl -q -fL -o ruby-3.1.2.tar.gz https://cache.ruby-lang.org/pub/ruby/3.1/ruby-3.1.2.tar.gz
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 19.6M  100 19.6M    0     0  35.2M      0 --:--:-- --:--:-- --:--:-- 35.2M
+==> Installing ruby-3.1.2...
+ruby-build: using readline from homebrew
+ruby-build: using libyaml from homebrew
+-> ./configure "--prefix=$HOME/.rbenv/versions/3.1.2" --with-openssl-dir=/opt/homebrew/opt/openssl@3 --enable-shared --with-readline-dir=/opt/homebrew/opt/readline --with-libyaml-dir=/opt/homebrew/opt/libyaml --with-ext=openssl,psych,+
+-> make -j 16
+-> make install
+==> Installed ruby-3.1.2 to /Users/moriyuusuke/.rbenv/versions/3.1.2
+❯ echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
+❯ echo 'eval "$(rbenv init -)"' >> ~/.zshrc
+❯ source ~/.zshrc
+❯ rbenv global 3.1.2
+❯ ruby -v
+ruby 3.1.2p20 (2022-04-12 revision 4491bb740a) [arm64-darwin23]
+❯ sudo gem install cocoapods
+Password:
+Fetching colored2-3.1.2.gem
+Fetching nanaimo-0.3.0.gem
+Fetching claide-1.1.0.gem
+Fetching atomos-0.1.3.gem
+Fetching CFPropertyList-3.0.7.gem
+Fetching xcodeproj-1.24.0.gem
+Fetching ruby-macho-2.5.1.gem
+Fetching nap-1.1.0.gem
+Fetching molinillo-0.8.0.gem
+Fetching gh_inspector-1.1.3.gem
+Fetching fourflusher-2.3.1.gem
+Fetching escape-0.0.4.gem
+Fetching cocoapods-try-1.2.0.gem
+Fetching netrc-0.11.0.gem
+Fetching cocoapods-trunk-1.6.0.gem
+Fetching cocoapods-search-1.0.1.gem
+Fetching cocoapods-plugins-1.0.0.gem
+Fetching cocoapods-downloader-2.1.gem
+Fetching cocoapods-deintegrate-1.0.5.gem
+Fetching ffi-1.17.0-arm64-darwin.gem
+Fetching ethon-0.16.0.gem
+Fetching typhoeus-1.4.1.gem
+Fetching public_suffix-4.0.7.gem
+Fetching fuzzy_match-2.0.4.gem
+Fetching concurrent-ruby-1.3.3.gem
+Fetching httpclient-2.8.3.gem
+Fetching algoliasearch-1.27.5.gem
+Fetching addressable-2.8.7.gem
+Fetching tzinfo-2.0.6.gem
+Fetching i18n-1.14.5.gem
+Fetching connection_pool-2.4.1.gem
+Fetching activesupport-7.1.3.4.gem
+Fetching cocoapods-1.15.2.gem
+Fetching cocoapods-core-1.15.2.gem
+Successfully installed nanaimo-0.3.0
+Successfully installed colored2-3.1.2
+Successfully installed claide-1.1.0
+Successfully installed CFPropertyList-3.0.7
+Successfully installed atomos-0.1.3
+Successfully installed xcodeproj-1.24.0
+Successfully installed ruby-macho-2.5.1
+Successfully installed nap-1.1.0
+Successfully installed molinillo-0.8.0
+Successfully installed gh_inspector-1.1.3
+Successfully installed fourflusher-2.3.1
+Successfully installed escape-0.0.4
+Successfully installed cocoapods-try-1.2.0
+Successfully installed netrc-0.11.0
+Successfully installed cocoapods-trunk-1.6.0
+Successfully installed cocoapods-search-1.0.1
+Successfully installed cocoapods-plugins-1.0.0
+Successfully installed cocoapods-downloader-2.1
+Successfully installed cocoapods-deintegrate-1.0.5
+Successfully installed ffi-1.17.0-arm64-darwin
+Successfully installed ethon-0.16.0
+Successfully installed typhoeus-1.4.1
+Successfully installed public_suffix-4.0.7
+Successfully installed fuzzy_match-2.0.4
+Successfully installed concurrent-ruby-1.3.3
+Successfully installed httpclient-2.8.3
+A new major version is available for Algolia! Please now use the https://rubygems.org/gems/algolia gem to get the latest features.
+Successfully installed algoliasearch-1.27.5
+Successfully installed addressable-2.8.7
+Successfully installed tzinfo-2.0.6
+Successfully installed i18n-1.14.5
+Successfully installed connection_pool-2.4.1
+Successfully installed activesupport-7.1.3.4
+Successfully installed cocoapods-core-1.15.2
+Successfully installed cocoapods-1.15.2
+Parsing documentation for nanaimo-0.3.0
+Installing ri documentation for nanaimo-0.3.0
+Parsing documentation for colored2-3.1.2
+Installing ri documentation for colored2-3.1.2
+Parsing documentation for claide-1.1.0
+Installing ri documentation for claide-1.1.0
+Parsing documentation for CFPropertyList-3.0.7
+Installing ri documentation for CFPropertyList-3.0.7
+Parsing documentation for atomos-0.1.3
+Installing ri documentation for atomos-0.1.3
+Parsing documentation for xcodeproj-1.24.0
+Installing ri documentation for xcodeproj-1.24.0
+Parsing documentation for ruby-macho-2.5.1
+Installing ri documentation for ruby-macho-2.5.1
+Parsing documentation for nap-1.1.0
+Installing ri documentation for nap-1.1.0
+Parsing documentation for molinillo-0.8.0
+Installing ri documentation for molinillo-0.8.0
+Parsing documentation for gh_inspector-1.1.3
+Installing ri documentation for gh_inspector-1.1.3
+Parsing documentation for fourflusher-2.3.1
+Installing ri documentation for fourflusher-2.3.1
+Parsing documentation for escape-0.0.4
+Installing ri documentation for escape-0.0.4
+Parsing documentation for cocoapods-try-1.2.0
+Installing ri documentation for cocoapods-try-1.2.0
+Parsing documentation for netrc-0.11.0
+Installing ri documentation for netrc-0.11.0
+Parsing documentation for cocoapods-trunk-1.6.0
+Installing ri documentation for cocoapods-trunk-1.6.0
+Parsing documentation for cocoapods-search-1.0.1
+Installing ri documentation for cocoapods-search-1.0.1
+Parsing documentation for cocoapods-plugins-1.0.0
+Installing ri documentation for cocoapods-plugins-1.0.0
+Parsing documentation for cocoapods-downloader-2.1
+Installing ri documentation for cocoapods-downloader-2.1
+Parsing documentation for cocoapods-deintegrate-1.0.5
+Installing ri documentation for cocoapods-deintegrate-1.0.5
+Parsing documentation for ffi-1.17.0-arm64-darwin
+Installing ri documentation for ffi-1.17.0-arm64-darwin
+Parsing documentation for ethon-0.16.0
+Installing ri documentation for ethon-0.16.0
+Parsing documentation for typhoeus-1.4.1
+Installing ri documentation for typhoeus-1.4.1
+Parsing documentation for public_suffix-4.0.7
+Installing ri documentation for public_suffix-4.0.7
+Parsing documentation for fuzzy_match-2.0.4
+Installing ri documentation for fuzzy_match-2.0.4
+Parsing documentation for concurrent-ruby-1.3.3
+Installing ri documentation for concurrent-ruby-1.3.3
+Parsing documentation for httpclient-2.8.3
+Installing ri documentation for httpclient-2.8.3
+Parsing documentation for algoliasearch-1.27.5
+Installing ri documentation for algoliasearch-1.27.5
+Parsing documentation for addressable-2.8.7
+Installing ri documentation for addressable-2.8.7
+Parsing documentation for tzinfo-2.0.6
+Installing ri documentation for tzinfo-2.0.6
+Parsing documentation for i18n-1.14.5
+Installing ri documentation for i18n-1.14.5
+Parsing documentation for connection_pool-2.4.1
+Installing ri documentation for connection_pool-2.4.1
+Parsing documentation for activesupport-7.1.3.4
+Couldn't find file to include 'activesupport/README.rdoc' from lib/active_support.rb
+Installing ri documentation for activesupport-7.1.3.4
+Parsing documentation for cocoapods-core-1.15.2
+Installing ri documentation for cocoapods-core-1.15.2
+Parsing documentation for cocoapods-1.15.2
+Installing ri documentation for cocoapods-1.15.2
+Done installing documentation for nanaimo, colored2, claide, CFPropertyList, atomos, xcodeproj, ruby-macho, nap, molinillo, gh_inspector, fourflusher, escape, cocoapods-try, netrc, cocoapods-trunk, cocoapods-search, cocoapods-plugins, cocoapods-downloader, cocoapods-deintegrate, ffi, ethon, typhoeus, public_suffix, fuzzy_match, concurrent-ruby, httpclient, algoliasearch, addressable, tzinfo, i18n, connection_pool, activesupport, cocoapods-core, cocoapods after 6 seconds
+34 gems installed
+❯ pod --version
+1.15.2
+❯ flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel stable, 3.22.3, on macOS 14.5 23F79 darwin-arm64, locale ja-JP)
+[✓] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
+[!] Xcode - develop for iOS and macOS (Xcode 15.4)
+    ✗ Unable to get list of installed Simulator runtimes.
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2024.1)
+[✓] Connected device (3 available)
+[✓] Network resources
+
+! Doctor found issues in 1 category.
+❯ xcode-select --install
+xcode-select: note: Command line tools are already installed. Use "Software Update" in System Settings or the softwareupdate command line interface to install updates
+❯ cd ../
+❯ ls
+README.md             analysis_options.yaml android               build                 ios                   lib                   linux                 macos                 pubspec.lock          pubspec.yaml          test                  web                   windows
+❯ sudo xcodebuild -license accept
+❯ sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+❯ sudo xcodebuild -runFirstLaunch
+❯ sudo xcodebuild -runFirstLaunch
+❯ flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel stable, 3.22.3, on macOS 14.5 23F79 darwin-arm64, locale ja-JP)
+[✓] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
+[✓] Xcode - develop for iOS and macOS (Xcode 15.4)
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2024.1)
+[✓] Connected device (3 available)
+[✓] Network resources
+
+• No issues found!
+❯ flutter run
+Connected devices:
+macOS (desktop)                 • macos                 • darwin-arm64   • macOS 14.5 23F79 darwin-arm64
+Mac Designed for iPad (desktop) • mac-designed-for-ipad • darwin         • macOS 14.5 23F79 darwin-arm64
+Chrome (web)                    • chrome                • web-javascript • Google Chrome 126.0.6478.183
+
+No wireless devices were found.
+
+[1]: macOS (macos)
+[2]: Mac Designed for iPad (mac-designed-for-ipad)
+[3]: Chrome (chrome)
+Please choose one (or "q" to quit): 1
+Launching lib/main.dart on macOS in debug mode...
+Running pod install...                                           1,713ms
+--- xcodebuild: WARNING: Using the first of multiple matching destinations:
+{ platform:macOS, arch:arm64, id:00006031-000C31892E80011C, name:My Mac }
+{ platform:macOS, arch:x86_64, id:00006031-000C31892E80011C, name:My Mac }
+warning: Run script build phase 'Run Script' will be run during every build because it does not specify any outputs. To address this warning, either add output dependencies to the script phase, or configure it to run in every build by unchecking "Based on dependency analysis" in the script phase. (in target 'Flutter Assemble' from project 'Runner')
+Building macOS application...
+✓ Built build/macos/Build/Products/Debug/tottoflutter.app
+[IMPORTANT:flutter/shell/platform/darwin/graphics/FlutterDarwinContextMetalSkia.mm(66)] Using the Skia rendering backend (Metal).
+Syncing files to device macOS...                                    15ms
+
+Flutter run key commands.
+r Hot reload. 🔥🔥🔥
+R Hot restart.
+h List all available interactive commands.
+d Detach (terminate "flutter run" but leave application running).
+c Clear the screen
+q Quit (terminate the application on the device).
+
+A Dart VM Service on macOS is available at: http://127.0.0.1:50003/10h-IBQc-Yw=/
+The Flutter DevTools debugger and profiler on macOS is available at: http://127.0.0.1:9102?uri=http://127.0.0.1:50003/10h-IBQc-Yw=/
+2024-07-22 07:39:55.795 tottoflutter[41456:8686587] WARNING: Secure coding is automatically enabled for restorable state! However, not on all supported macOS versions of this application. Opt-in to secure coding explicitly by implementing NSApplicationDelegate.applicationSupportsSecureRestorableState:.
+
+Application finished.
+the Dart compiler exited unexpectedly.
+❯ ls /Users/moriyuusuke/Desktop/totto-flutter
+README.md             analysis_options.yaml android               build                 ios                   lib                   linux                 macos                 pubspec.lock          pubspec.yaml          test                  web                   windows
+❯ flutter pub get
+Resolving dependencies...
+Downloading packages...
+  collection 1.18.0 (1.19.0 available)
+  cupertino_icons 1.0.6 (1.0.8 available)
+  flutter_lints 3.0.2 (4.0.0 available)
+  flutter_plugin_android_lifecycle 2.0.17 (2.0.20 available)
+  leak_tracker 10.0.4 (10.0.5 available)
+  leak_tracker_flutter_testing 3.0.3 (3.0.5 available)
+  lints 3.0.0 (4.0.0 available)
+  material_color_utilities 0.8.0 (0.12.0 available)
+  meta 1.12.0 (1.15.0 available)
+  string_scanner 1.2.0 (1.3.0 available)
+  UW PICO 5.09                                                                                                                                                 New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                     [ Read 44 lines ]
+^G Get Help                                         ^O WriteOut                                         ^R Read File                                        ^Y Prev Pg                                          ^K Cut Text                                         ^C Cur Pos
+^X Exit                                             ^J Justify                                          ^W Where is                                         ^V Next Pg                                          ^U UnCut Text                                       ^T To Spell
+  test_api 0.7.0 (0.7.3 available)
+  vm_service 14.2.1 (14.2.4 available)
+Got dependencies!
+12 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+❯ ls
+README.md             analysis_options.yaml android               build                 ios                   lib                   linux                 macos                 pubspec.lock          pubspec.yaml          test                  web                   windows
+❯ cd ios
+❯ cd ios
+pod install
+cd: no such file or directory: ios
+Analyzing dependencies
+Downloading dependencies
+Installing Flutter (1.0.0)
+Installing flutter_barcode_scanner (2.0.0)
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 2 dependencies from the Podfile and 2 total pods installed.
+
+[!] Automatically assigning platform `iOS` with version `12.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile. See `https://guides.cocoapods.org/syntax/podfile.html#platform`.
+
+[!] CocoaPods did not set the base configuration of your project because your project already has a custom config set. In order for CocoaPods integration to work at all, please either set the base configurations of the target `Runner` to `Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig` or include the `Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig` in your build configuration (`Flutter/Release.xcconfig`).
+❯ flutter doctor
+Doctor summary (to see all details, run flutter doctor -v):
+[✓] Flutter (Channel stable, 3.22.3, on macOS 14.5 23F79 darwin-arm64, locale ja-JP)
+[✓] Android toolchain - develop for Android devices (Android SDK version 35.0.0)
+[✓] Xcode - develop for iOS and macOS (Xcode 15.4)
+[✓] Chrome - develop for the web
+[✓] Android Studio (version 2024.1)
+[✓] Connected device (3 available)
+[✓] Network resources
+
+• No issues found!
+❯ ls /Users/moriyuusuke/Desktop/totto-flutter
+README.md             analysis_options.yaml android               build                 ios                   lib                   linux                 macos                 pubspec.lock          pubspec.yaml          test                  web                   windows
+❯
+❯
+❯
+❯
+❯
+❯ sudo chown -R $(whoami) /Users/moriyuusuke/Desktop/totto-flutter
+Password:
+❯ sudo chmod -R 755 /Users/moriyuusuke/Desktop/totto-flutter
+❯ cd /Users/moriyuusuke/Desktop/totto-flutter
+❯ flutter pub get
+Resolving dependencies...
+Downloading packages...
+  collection 1.18.0 (1.19.0 available)
+  cupertino_icons 1.0.6 (1.0.8 available)
+  flutter_lints 3.0.2 (4.0.0 available)
+  flutter_plugin_android_lifecycle 2.0.17 (2.0.20 available)
+  leak_tracker 10.0.4 (10.0.5 available)
+  leak_tracker_flutter_testing 3.0.3 (3.0.5 available)
+  lints 3.0.0 (4.0.0 available)
+  material_color_utilities 0.8.0 (0.12.0 available)
+  meta 1.12.0 (1.15.0 available)
+  string_scanner 1.2.0 (1.3.0 available)
+  test_api 0.7.0 (0.7.3 available)
+  vm_service 14.2.1 (14.2.4 available)
+Got dependencies!
+12 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+❯ cd ios
+❯ pod install
+Analyzing dependencies
+Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 2 dependencies from the Podfile and 2 total pods installed.
+
+[!] Automatically assigning platform `iOS` with version `12.0` on target `Runner` because no platform was specified. Please specify a platform for this target in your Podfile. See `https://guides.cocoapods.org/syntax/podfile.html#platform`.
+
+[!] CocoaPods did not set the base configuration of your project because your project already has a custom config set. In order for CocoaPods integration to work at all, please either set the base configurations of the target `Runner` to `Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig` or include the `Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig` in your build configuration (`Flutter/Release.xcconfig`).
+❯ ls
+Flutter            Podfile            Podfile.lock       Pods               Runner             Runner.xcodeproj   Runner.xcworkspace RunnerTests
+❯ nano Podfile
+❯ pod install
+Analyzing dependencies
+Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 2 dependencies from the Podfile and 2 total pods installed.
+
+[!] CocoaPods did not set the base configuration of your project because your project already has a custom config set. In order for CocoaPods integration to work at all, please either set the base configurations of the target `Runner` to `Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig` or include the `Target Support Files/Pods-Runner/Pods-Runner.profile.xcconfig` in your build configuration (`Flutter/Release.xcconfig`).
+❯ open Runner.xcworkspace
+❯ open Runner.xcworkspace
+❯ open ios/Runner.xcworkspace
+The file /Users/moriyuusuke/Desktop/totto-flutter/ios/ios/Runner.xcworkspace does not exist.
+❯ open ios/Runner.xcworkspace
+The file /Users/moriyuusuke/Desktop/totto-flutter/ios/ios/Runner.xcworkspace does not exist.
+❯ ls
+Flutter            Podfile            Podfile.lock       Pods               Runner             Runner.xcodeproj   Runner.xcworkspace RunnerTests
+❯ pwd
+/Users/moriyuusuke/Desktop/totto-flutter/ios
+❯ cd /Users/moriyuusuke/Desktop/totto-flutter/ios
+❯ open Runner.xcworkspace
+❯ ls
+Flutter            Podfile            Podfile.lock       Pods               Runner             Runner.xcodeproj   Runner.xcworkspace RunnerTests
+❯ open ios/Runner.xcworkspace
+The file /Users/moriyuusuke/Desktop/totto-flutter/ios/ios/Runner.xcworkspace does not exist.
+❯ ls
+Flutter            Podfile            Podfile.lock       Pods               Runner             Runner.xcodeproj   Runner.xcworkspace RunnerTests
+❯ cd /Users/moriyuusuke/Desktop/totto-flutter
+❯ flutter clean
+Cleaning Xcode workspace...                                      1,085ms
+Cleaning Xcode workspace...                                      1,682ms
+Deleting build...                                                   29ms
+Deleting .dart_tool...                                               2ms
+Deleting Generated.xcconfig...                                       0ms
+Deleting flutter_export_environment.sh...                            0ms
+Deleting Flutter.podspec...                                          0ms
+Deleting ephemeral...                                                0ms
+Deleting ephemeral...                                                0ms
+Deleting ephemeral...                                                0ms
+Deleting .flutter-plugins-dependencies...                            0ms
+Deleting .flutter-plugins...                                         0ms
+❯ flutter pub get
+Resolving dependencies...
+  UW PICO 5.09                                                                                                                                                 New Buffer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                      [ Read 8 lines ]
+^G Get Help                                         ^O WriteOut                                         ^R Read File                                        ^Y Prev Pg                                          ^K Cut Text                                         ^C Cur Pos
+^X Exit                                             ^J Justify                                          ^W Where is                                         ^V Next Pg                                          ^U UnCut Text                                       ^T To Spell
+  UW PICO 5.09                                                                                                                                               File: Podfile
+
+platform :ios, '12.0'
+
+target 'Runner' do
+  use_frameworks!
+  use_modular_headers!
+
+  flutter_install_all_ios_pods File.dirname(File.realpath(__FILE__))
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+^G Get Help                                         ^O WriteOut                                         ^R Read File                                        ^Y Prev Pg                                          ^K Cut Text                                         ^C Cur Pos
+^X Exit                                             ^J Justify                                          ^W Where is                                         ^V Next Pg                                          ^U UnCut Text                                       ^T To Spell
