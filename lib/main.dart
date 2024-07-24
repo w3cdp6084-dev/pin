@@ -46,6 +46,13 @@ class HomePage extends StatelessWidget {
                   child: Image.network(
                     pin.imageUrl,
                     fit: BoxFit.cover,
+                    loadingBuilder: (context, child, loadingProgress) {
+                      if (loadingProgress == null) return child;
+                      return Center(child: CircularProgressIndicator());
+                    },
+                    errorBuilder: (context, error, stackTrace) {
+                      return Center(child: Icon(Icons.error));
+                    },
                   ),
                 ),
                 Padding(
@@ -53,6 +60,8 @@ class HomePage extends StatelessWidget {
                   child: Text(
                     pin.title,
                     style: Theme.of(context).textTheme.bodyLarge,
+                    maxLines: 2,
+                    overflow: TextOverflow.ellipsis,
                   ),
                 ),
               ],
