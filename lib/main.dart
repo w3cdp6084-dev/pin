@@ -51,7 +51,10 @@ class HomePage extends StatelessWidget {
                       return Center(child: CircularProgressIndicator());
                     },
                     errorBuilder: (context, error, stackTrace) {
-                      return Center(child: Icon(Icons.error));
+                      print('Error loading image: $error');
+                      return Center(
+                          child: Text('Error: $error',
+                              textAlign: TextAlign.center));
                     },
                   ),
                 ),
